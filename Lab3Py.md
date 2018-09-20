@@ -1,4 +1,4 @@
-![Ссылка на борд](https://repl.it/@NikitaPopov/20-09-18)
+[Ссылка на борд](https://repl.it/@NikitaPopov/20-09-18)
 
 Код:
 
