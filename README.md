@@ -6,4 +6,5 @@
 # Лабы по Python
 1. [Markdown](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
 2. [Таблицы истинности на repl](https://repl.it/@NikitaPopov/AwfulHeavyClicks)
-3. [Списки, срезы](Lab3Py.md)
+3. [Усложненное задание с таблицами истинности](https://repl.it/@NikitaPopov/PythonLab2Hard)
+4. [Списки, срезы](Lab3Py.md)
