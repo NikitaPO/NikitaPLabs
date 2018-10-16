@@ -7,4 +7,5 @@
 1. [Markdown](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
 2. [Таблицы истинности на repl](https://repl.it/@NikitaPopov/AwfulHeavyClicks)
 3. [Усложненное задание с таблицами истинности](https://repl.it/@NikitaPopov/PythonLab2Hard)
-4. [Списки, срезы](Lab3Py.md)
+4. [Генератор таблиц по заданным параметрам](https://repl.it/@NikitaPopov/createTable-1)
+5. [Списки, срезы](Lab3Py.md)
