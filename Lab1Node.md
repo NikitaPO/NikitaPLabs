@@ -1,1 +1,1 @@
-![alt-текст](screenNode.png "Необязательный титул")
+![alt-текст](images\screenNode.png)
