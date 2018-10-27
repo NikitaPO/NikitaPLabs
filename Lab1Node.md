@@ -1,1 +1,1 @@
-![alt-текст](images\screenNode.png)
+![alt-текст](images/screenNode.png)
