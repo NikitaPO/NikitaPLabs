@@ -1,5 +1,9 @@
-function sum(a, b, c) {
-  return a + b + c;
+function sum() {
+  let s = 0;
+  for (let i = 0; i < arguments.length; i++) {
+    s += arguments[i];
+  }
+  return s;
 }
 
-console.log(sum(1, 2, 3));
+console.log(sum(1, 2, 5, 5, 44));
