@@ -7,3 +7,5 @@ function sum() {
 }
 
 console.log(sum(1, 2, 5, 5, 44));
+
+// вывод 57
