@@ -1,11 +1,11 @@
-function sum() {
+function sum(...args) {
   let s = 0;
-  for (let i = 0; i < arguments.length; i++) {
-    s += arguments[i];
+  for (let i = 0; i < args.length; i += 1) {
+    s += args[i];
   }
   return s;
 }
 
-console.log(sum(1, 2, 5, 5, 44));
+console.log(sum(1, 2, 5, 5, 2));
 
-// вывод 57
+// вывод 15
