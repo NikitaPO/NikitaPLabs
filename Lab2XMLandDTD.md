@@ -1,4 +1,2 @@
-
-https://kodaktor.ru/unsafe_bdfa3
-
-DTD: http://kodaktor.ru/unsafe_1c89b
+# Ссылка на репозиторий [https://github.com/NikitaPO/js1dtd](https://github.com/NikitaPO/js1dtd)
+# Ссылка на выполненное задание Github pages [https://github.com/NikitaPO/js1dtd](https://github.com/NikitaPO/js1dtd)
