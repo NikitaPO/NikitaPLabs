@@ -1,5 +1,17 @@
-[Страница](http://kodaktor.ru/x/abcde_eaf5d)
+# Ссылка на задание: [XSD-2018.pdf](https://moodle.herzen.spb.ru/pluginfile.php/185510/mod_label/intro/XSD-2018.pdf)
 
-[Схема](https://kodaktor.ru/?!=vwxyz_abb08)
+### Результат выполненения упражнения 1:
 
-[Ссылка на задание](https://moodle.herzen.spb.ru/pluginfile.php/185510/mod_label/intro/XSD-2018.pdf)
+[Страница в кодакторе](http://kodaktor.ru/x/abcde_eaf5d)
+
+[Схема в кодакторе](https://kodaktor.ru/?!=vwxyz_abb08)
+
+### Результат выполненения упражнения 2:
+
+[Страница в кодакторе](https://kodaktor.ru/?!=unsafe_6fdad)
+
+[Схема в кодакторе](https://kodaktor.ru/?!=unsafe_e0c29)
+
+[Страница - файл в репозитории](/JS2/xml.xml)
+
+[Схема - файл в репозитории](/JS2/xsd.xml)
