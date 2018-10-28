@@ -13,3 +13,5 @@
 5. [Списки, срезы](Lab3Py.md)
 6. [Задание по сортировке](https://github.com/Zoom124/PythonLabSort)
 7. [Задание по unique_funk](https://github.com/Zoom124/PythonLabSort/blob/master/unique_func.py)
+
+> Выполнено Поповым Никитой, ИВТ, 2 подгруппа, 2 курс
