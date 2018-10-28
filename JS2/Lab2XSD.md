@@ -20,4 +20,4 @@
 
 [https://webmaster.yandex.ru/tools/xml-validator/](https://webmaster.yandex.ru/tools/xml-validator/)
 
-![](/JS2/imgxml1.png)
+![*Изображение не отображено*](/JS2/imgxml1.png)
