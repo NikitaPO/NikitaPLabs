@@ -1,6 +1,6 @@
 # Лабы по Web
 1. [Node JS](https://github.com/Zoom124/NikitaPLabs/blob/master/Lab1Node.md)
-2. [XML и DTD](https://github.com/Zoom124/NikitaPLabs/blob/master/Lab2XMLandDTD.md)
+2. [XML и DTD](Lab2XMLandDTD.md)
 3. [XSD](Lab3XSD.md)
 4. [Fetch](JS8.md)
 
