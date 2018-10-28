@@ -5,7 +5,11 @@
 2. [XML и DTD (Неделя 1)](Lab2XMLandDTD.md)
 3. [XSD (Неделя 2)](/JS2/Lab2XSD.md)
 4. [XSL (Неделя 3)](/JS3/XSLresult.md)
-5. [Fetch (Неделя 8)](JS8.md)
+5. [Функции и Зависимости (Неделя 4)](/JS4/result.md)
+6. [babel и flow (Неделя 5)](/JS5/result.md)
+7. [Каррирование (Неделя 6)](/JS6/result.md)
+8. [Строки и массивы (Неделя 7)](/JS7/result.md)
+9. [Объекты и Fetch (Неделя 8)](JS8.md)
 
 # Лабы по Python
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
