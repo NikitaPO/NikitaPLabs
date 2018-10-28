@@ -4,13 +4,13 @@
 
 [Страница в кодакторе](http://kodaktor.ru/x/abcde_eaf5d)
 
-[Схема в кодакторе](https://kodaktor.ru/?!=vwxyz_abb08)
+[Схема в кодакторе](https://kodaktor.ru/x/vwxyz_abb08)
 
 ### Результат выполненения упражнения 2:
 
-[Страница в кодакторе](https://kodaktor.ru/?!=unsafe_6fdad)
+[Страница в кодакторе](https://kodaktor.ru/x/unsafe_6fdad)
 
-[Схема в кодакторе](https://kodaktor.ru/?!=unsafe_e0c29)
+[Схема в кодакторе](https://kodaktor.ru/x/unsafe_e0c29)
 
 [Страница - файл в репозитории](/JS2/xml.xml)
 
