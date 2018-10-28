@@ -15,3 +15,9 @@
 [Страница - файл в репозитории](/JS2/xml.xml)
 
 [Схема - файл в репозитории](/JS2/xsd.xml)
+
+### Скриншот валидации с сайта: 
+
+[https://webmaster.yandex.ru/tools/xml-validator/](https://webmaster.yandex.ru/tools/xml-validator/)
+
+![](/JS2/imgxml1.png)
