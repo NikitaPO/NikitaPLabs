@@ -1,8 +1,8 @@
 # Лабы по Web
-1. [Node JS](https://github.com/Zoom124/NikitaPLabs/blob/master/Lab1Node.md)
-2. [XML и DTD](Lab2XMLandDTD.md)
-3. [XSD](Lab3XSD.md)
-4. [Fetch](JS8.md)
+1. [Node JS (Неделя 1)](https://github.com/Zoom124/NikitaPLabs/blob/master/Lab1Node.md)
+2. [XML и DTD (Неделя 1)](Lab2XMLandDTD.md)
+3. [XSD (Неделя 2)](/JS2/Lab2XSD.md)
+4. [Fetch (Неделя 8)](JS8.md)
 
 # Лабы по Python
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
