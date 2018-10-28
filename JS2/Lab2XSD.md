@@ -1,3 +1,5 @@
+![*Изображение не отображено, смотрите через github*](/JS2/imgxml1.png)
+
 # Ссылка на задание: [XSD-2018.pdf](https://moodle.herzen.spb.ru/pluginfile.php/185510/mod_label/intro/XSD-2018.pdf)
 
 ### Результат выполненения упражнения 1:
@@ -20,4 +22,4 @@
 
 [https://webmaster.yandex.ru/tools/xml-validator/](https://webmaster.yandex.ru/tools/xml-validator/)
 
-![*Изображение не отображено, смотрите через github*](/JS2/imgxml1.png)
+
