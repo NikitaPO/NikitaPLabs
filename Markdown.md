@@ -4,6 +4,8 @@
 * Java
 * Pascal
 * HTML/CSS
-[Ссылка на портфолио](https://zoom124.github.io/NikitaPLabs/)
+
+[Ссылка на портфолио](https://nikitapo.github.io/NikitaPLabs/)
+
 ![](images/maxresdefault.jpg)
 
