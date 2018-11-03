@@ -10,6 +10,7 @@
 7. [Каррирование (Неделя 6)](/JS6/result.md)
 8. [Строки и массивы (Неделя 7)](/JS7/result.md)
 9. [Объекты и Fetch (Неделя 8)](JS8.md)
+10. [Объекты и Fetch (Неделя 9)](/JS9/result.md)
 
 # Лабы по Python
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
