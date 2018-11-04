@@ -1,3 +1,5 @@
+# Задания
+
 Задание 1 (введение): [https://kodaktor.ru/task_intro](https://kodaktor.ru/task_intro)
 
 Задание 2 (функции): [https://moodle.herzen.spb.ru/mod/forum/view.php?id=89950](https://moodle.herzen.spb.ru/mod/forum/view.php?id=89950)
@@ -9,3 +11,7 @@
 БОНУС
 
 Напишите функции для вычисления площади треугольника по формуле Герона (по трём сторонам) и вычисления температуры в градусах по температуре, данной по шкале Фаренгейта.
+
+# Решения
+
+Ссылка на решение первого задания: [https://kodaktor.ru/?!=task_9f27b](https://kodaktor.ru/?!=task_9f27b)
