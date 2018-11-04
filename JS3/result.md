@@ -14,4 +14,4 @@
 
 # Решения
 
-Ссылка на решение первого задания: [https://kodaktor.ru/?!=task_9f27b](https://kodaktor.ru/?!=task_9f27b)
+Ссылка на решение первого задания (введение): [https://kodaktor.ru/?!=task_9f27b](https://kodaktor.ru/?!=task_9f27b)
