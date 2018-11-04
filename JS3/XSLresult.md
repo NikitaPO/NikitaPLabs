@@ -29,4 +29,4 @@ XSL Transformer: [https://www.freeformatter.com/xsl-transformer.html#ad-output](
 
 ![Изображение не загрузилось, поробуйте посмотреть через github](/JS3/sigma.png "Формула")
 
-Html файл MathJax формулы: [/JS3/MathJax.html](/JS3/MathJax.html)
+Html файл MathJax формулы: [JS3/MathJax.html](/JS3/MathJax.html)
