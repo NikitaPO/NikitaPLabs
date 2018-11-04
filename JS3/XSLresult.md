@@ -26,3 +26,7 @@ XSL Transformer: [https://www.freeformatter.com/xsl-transformer.html#ad-output](
 ## Дополнительное задание по XSL и MathJax
 
 Ссылка на борд с заданиями: [https://kodaktor.ru/g/xsl_intro](https://kodaktor.ru/g/xsl_intro)
+
+![Изображение не загрузилось, поробуйте посмотреть через github](/JS3/sigma.png "Формула")
+
+Html файл MathJax формулы: [/JS3/MatJax.html)](/JS3/MatJax.html)
