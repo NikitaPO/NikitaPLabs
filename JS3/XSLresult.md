@@ -12,3 +12,5 @@ XSL Transformer: [https://www.freeformatter.com/xsl-transformer.html#ad-output](
  Ссылка на XLS схему: [https://kodaktor.ru/?!=4dc500a](https://kodaktor.ru/?!=4dc500a)
  
  Ссылка на XML документ: [https://kodaktor.ru/?!=e88ab99](https://kodaktor.ru/?!=e88ab99)
+ 
+ ![Изображение не загрузилось, попробуйте через github](/JS3/img123.png)
