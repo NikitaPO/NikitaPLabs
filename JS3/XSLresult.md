@@ -13,4 +13,4 @@ XSL Transformer: [https://www.freeformatter.com/xsl-transformer.html#ad-output](
  
  Ссылка на XML документ: [https://kodaktor.ru/?!=e88ab99](https://kodaktor.ru/?!=e88ab99)
  
- ![Изображение не загрузилось, попробуйте через github](/JS3/img123.png)
+ ![Изображение не загрузилось, попробуйте через github](/JS3/img123.png "Результат 1")
