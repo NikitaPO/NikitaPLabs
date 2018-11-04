@@ -4,7 +4,7 @@ XSL Transformer: [https://www.freeformatter.com/xsl-transformer.html#ad-output](
 
 # Решение
 
-## 1. Ответ на первое задание
+## 0. Ответ на первое задание
  Ссылка на сгенеринованный html: [https://kodaktor.ru/?!=html_bb361](https://kodaktor.ru/?!=html_bb361)
  
  Ссылка на XLS схему: [https://kodaktor.ru/?!=4dc500a](https://kodaktor.ru/?!=4dc500a)
@@ -14,7 +14,7 @@ XSL Transformer: [https://www.freeformatter.com/xsl-transformer.html#ad-output](
  ![Изображение не загрузилось, попробуйте через github](/JS3/img123.png "Результат 1")
 
 
-## 2. Ответ на второе задание
+## 1. Ответ на второе задание
  Ссылка на сгенеринованный html: [https://kodaktor.ru/?!=4dc500a_a77b0](https://kodaktor.ru/?!=4dc500a_a77b0)
  
  Ссылка на XLS схему: [https://kodaktor.ru/?!=4dc500a_bf7b7](https://kodaktor.ru/?!=4dc500a_bf7b7)
