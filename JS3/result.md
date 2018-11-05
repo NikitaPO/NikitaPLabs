@@ -19,4 +19,4 @@
 
 1. Решение [https://kodaktor.ru/?!=task_func_9d99c](https://kodaktor.ru/?!=task_func_9d99c)
 
-2. Решение [https://kodaktor.ru/?!=03112018_580fc](https://kodaktor.ru/?!=03112018_580fc)
+2. Решение [https://kodaktor.ru/?!=03112018_2b7b1](https://kodaktor.ru/?!=03112018_2b7b1)
