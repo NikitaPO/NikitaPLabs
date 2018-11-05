@@ -18,3 +18,5 @@
 ## Задание 2
 
 1. Решение [https://kodaktor.ru/?!=task_func_9d99c](https://kodaktor.ru/?!=task_func_9d99c)
+
+2. Решение [https://kodaktor.ru/?!=03112018_580fc](https://kodaktor.ru/?!=03112018_580fc)
