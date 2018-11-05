@@ -11,10 +11,10 @@
 
 # Решения
 
-# Задание 1
+## Задание 1
 
 Ссылка на решение первого задания (введение): [https://kodaktor.ru/?!=task_9f27b](https://kodaktor.ru/?!=task_9f27b)
 
-# Задание 2
+## Задание 2
 
 1. Решение [https://kodaktor.ru/?!=task_func_9d99c](https://kodaktor.ru/?!=task_func_9d99c)
