@@ -1,3 +1,7 @@
+Файл [index.js](/JS4/index.js)
+
+Файл [module_export.js](/JS4/module_export.js)
+
 1. Установка webpack
 
 ![Изображение отображется только на github](/JS4/img41.png)
