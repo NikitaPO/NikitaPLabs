@@ -4,7 +4,7 @@
 1. [Node JS (Неделя 1)](https://github.com/Zoom124/NikitaPLabs/blob/master/Lab1Node.md)
 1. [XML и DTD (Неделя 1)](Lab2XMLandDTD.md)
 1. [XSD (Неделя 2)](/JS2/Lab2XSD.md)
-1. [XSL (Неделя 3)](/JS3/XSLresult.md)
+1. [XSL (Неделя 3)](https://github.com/NikitaPO/NikitaPLabs/blob/master/JS3/XSLresult.md)
 1. [Введение в функции JS (Неделя 3)](/JS3/result.md)
 1. [Функции и Зависимости (Неделя 4)](/JS4/result.md)
 1. [babel и flow (Неделя 5)](/JS5/result.md)
