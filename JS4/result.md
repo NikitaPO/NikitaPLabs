@@ -3,7 +3,7 @@
 Теория и задание:
 [https://moodle.herzen.spb.ru/pluginfile.php/36657/course/section/19788/t2m.pdf](https://moodle.herzen.spb.ru/pluginfile.php/36657/course/section/19788/t2m.pdf)
 
-## [Решение](/JS4/result1.md)
+## [Решение](https://github.com/NikitaPO/NikitaPLabs/blob/master/JS4/result1.md)
 
 # Зависимости
 
