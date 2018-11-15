@@ -21,4 +21,4 @@
 1. [Генератор таблиц по заданным параметрам](https://repl.it/@NikitaPopov/createTable-1)
 1. [Списки, срезы](Lab3Py.md)
 1. [Задание по сортировке](https://github.com/Zoom124/PythonLabSort)
-1. [Задание по unique_funk](https://github.com/Zoom124/PythonLabSort/blob/master/unique_func.py)
+1. [Задание по unique_funk](https://repl.it/@NikitaPopov/uniquefunk)
