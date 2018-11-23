@@ -12,6 +12,6 @@
 
 1. flow с контролем типов
 
-[Ссылка на ответ](/JS5/result2.md)
+[Ссылка на ответ](https://github.com/NikitaPO/NikitaPLabs/blob/master/JS5/result2.md)
 
 1. Генерация документации по комментам
