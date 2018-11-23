@@ -27,6 +27,6 @@
 
 # Сертификаты
 
-![](/images/certJS.png)
+![](/images/certJS.jpg)
 
-![](/images/certJava.png)
+![](/images/certJava.jpg)
