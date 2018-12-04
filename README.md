@@ -14,7 +14,7 @@
 1. [Fetch и деструктуризация (Неделя 9)](/JS9/result.md)
 1. [Промисы и async/await (Неделя 10)](/JS10/result.md)
 1. [Введение в DOM (Неделя 11)](/JS11/result.md)
-1. [Кастомные события и коммуникация компонентов (Неделя 12)](/JS12/result.md)
+1. [Cобытия и iRemove(Неделя 12)](/JS12/result.md)
 
 # Лабы по Python
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
