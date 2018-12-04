@@ -25,5 +25,7 @@
 1. [Задание по сортировке](https://github.com/Zoom124/PythonLabSort)
 1. [Задание по unique_funk](https://repl.it/@NikitaPopov/uniquefunk)
 
-# [Сертификат](/images/certJS.jpg)
+# Всякое
+1. [Сертификат по js](/images/certJS.jpg)
+1. [Коробки](https://codepen.io/nikitapo/pen/wQXGrR)
 
