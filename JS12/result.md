@@ -23,5 +23,4 @@
 [https://kodaktor.ru/?!=custom_ae387](https://kodaktor.ru/?!=custom_ae387)
 
 # Задание iRemove с решением
-
 [https://kodaktor.ru/?!=iremove_5bb17](https://kodaktor.ru/?!=iremove_5bb17)
