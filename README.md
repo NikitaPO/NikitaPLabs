@@ -27,5 +27,5 @@
 
 # Всякое
 1. [Сертификат по js](/images/certJS.jpg)
-1. [Коробки](https://codepen.io/nikitapo/pen/wQXGrR)
+1. [Движущаяся коробка](https://codepen.io/nikitapo/pen/wQXGrR)
 
