@@ -4,4 +4,4 @@
 
 # Решение
 
-2. https://kodaktor.ru/?!=zzzzzzz_3d0b9
+2. [https://kodaktor.ru/?!=zzzzzzz_3d0b9](https://kodaktor.ru/?!=zzzzzzz_3d0b9)
