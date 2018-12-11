@@ -11,3 +11,5 @@
   
 # Решение
 
+Ссылка на готовое приложение: [https://whispering-anchorage-47980.herokuapp.com/add?n1=2&n2=3](https://whispering-anchorage-47980.herokuapp.com/add?n1=2&n2=3)
+Ссылка на репозиторий: [https://github.com/NikitaPO/herokuserver](https://github.com/NikitaPO/herokuserver)
