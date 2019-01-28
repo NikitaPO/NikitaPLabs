@@ -9,5 +9,7 @@
 ## Решения
 
 bable+flow с контролем типов
+
 [Ссылка на репозиторий](https://github.com/NikitaPO/bable-flow/tree/master)
+
 [Ссылка на ответ](https://github.com/NikitaPO/NikitaPLabs/blob/master/JS5/result2.md)
