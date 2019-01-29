@@ -34,5 +34,5 @@
 # Всякое
 1. [Сертификат по js](/images/certJS.jpg)
 1. [Сертификат по python](/images/certPython.jpg)
-1. [Движущаяся коробка](https://codepen.io/nikitapo/pen/wQXGrR)
+1. [CodePen](https://codepen.io/nikitapo/)
 
