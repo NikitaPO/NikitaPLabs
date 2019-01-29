@@ -17,7 +17,10 @@
 1. [Cобытия и iRemove (Неделя 12)](/JS12/result.md)
 1. [Объекты и Прототипы (Неделя 13)](/JS13/result.md)
 1. [Веб-сервер на модуле http (Неделя 14)](/JS14/result.md)
+1. [middleware и серверная шаблонизация (Неделя 15)](/JS15/result.md)
 1. [Работа со статическими файлами(Неделя 16)](/JS16/result.md)
+
+
 
 # Лабы по Python
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
@@ -30,5 +33,6 @@
 
 # Всякое
 1. [Сертификат по js](/images/certJS.jpg)
+1. [Сертификат по python](/images/certPython.jpg)
 1. [Движущаяся коробка](https://codepen.io/nikitapo/pen/wQXGrR)
 
