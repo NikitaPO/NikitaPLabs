@@ -4,7 +4,7 @@
 
 # Решение
 
-[Ссылка на решение](https://kodaktor.ru/?!=71aec26_ffd76)
+[Ссылка на решение](https://kodaktor.ru/?!=71aec26_f84a6)
 
 код решения:
 
@@ -54,9 +54,10 @@
       let ip = ips[i];
       let c = 1;
       for(let j = i+1; j < ips.length; ++j){
-        if (ips[j] == ip) {
-          c++;
+        if (ips[j] === ip) {
+          ++c;
           ips.splice(j, 1);
+          j-=2;
         };
       };
       counts[i] = c;
