@@ -9,6 +9,7 @@
 код решения:
 
 //Задачи со строками
+    
     //Упражнение 6-1
     Out.log('6-1: ' + String.fromCharCode(0x0F00));
 
@@ -24,7 +25,7 @@
      Out.log('arrform: ' + even2);
 
     //Упражнение 6-4
-    let nums = Array.from({length: 10}, (x, y) => 								Math.ceil(Math.random()*1000));
+    let nums = Array.from({length: 10}, (x, y) => Math.ceil(Math.random()*1000));
     nums.sort((x, y) => x - y);
     Out.log('6-4: ' + nums);
 
@@ -72,7 +73,7 @@
 	Out.log('6-7: ' + sum(1,2,3));
 
 	//Упражнение 6-8
-    let getArray = n => Array.from({length: n}, (x, y) => y+65);
+	let getArray = n => Array.from({length: n}, (x, y) => y+65);
 	Out.log('6-8: ' + getArray(6));
 
 	//Упражнение 6-9
@@ -84,7 +85,7 @@
 	Out.log('6-10a: ' + str.split('').map(x => x.charCodeAt()));
 	
 	//Упражнение 6-10б
-    let a = Array.from({length: 10}, (x, y) => 									String(Math.ceil(Math.random()*(9999999 - 99) + 99)).padStart(10, '0'));
+    	let a = Array.from({length: 10}, (x, y) => String(Math.ceil(Math.random()*(9999999 - 99) + 99)).padStart(10, '0'));
 	Out.log('6-10б: ' + a);
 
 	//Упражнение 6-11
