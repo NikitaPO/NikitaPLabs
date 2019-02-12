@@ -21,7 +21,7 @@
 1. [Работа со статическими файлами(Неделя 16)](/JS16/result.md)
 
 # Лабы по обогащенным интерфейсам
-1. [прототип UI для API nd.kodaktor.ru](/interfaces/lab1/result.md)
+1. [Прототип UI для API nd.kodaktor.ru](/interfaces/lab1/result.md)
 
 # Лабы по Python
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
