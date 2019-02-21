@@ -20,7 +20,7 @@
 Левый компонент реагировал на этот сигнал добавлением содержимого своего атрибута title в свой текст
 
 # Решение
-[https://kodaktor.ru/?!=custom_ae387](https://kodaktor.ru/?!=custom_ae387)
+[https://kodaktor.ru/?!=custom_869f5](https://kodaktor.ru/?!=custom_869f5)
 
 # Задание iRemove с решением
 [https://kodaktor.ru/?!=iremove_5bb17](https://kodaktor.ru/?!=iremove_5bb17)
