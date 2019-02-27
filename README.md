@@ -24,6 +24,11 @@
 1. [Прототип UI для API nd.kodaktor.ru](/interfaces/lab1/result.md)
 1. [Мини-интернет магазин](/interfaces/lab2/result.md)
 
+<select>
+  <option>adfasd</option>
+  <option>adfaadsfasdfsd</option>
+</select>
+
 # Лабы по Python
 ## Семестр 3
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
