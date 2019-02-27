@@ -25,6 +25,7 @@
 1. [Мини-интернет магазин](/interfaces/lab2/result.md)
 
 # Лабы по Python
+## Семестр 3
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
 1. [Таблицы истинности на repl](https://repl.it/@NikitaPopov/PythonLab2)
 1. [Усложненное задание с таблицами истинности](https://repl.it/@NikitaPopov/PythonLab2Hard)
@@ -32,6 +33,8 @@
 1. [Списки, срезы](Lab3Py.md)
 1. [Задание по сортировке](https://github.com/Zoom124/PythonLabSort)
 1. [Задание по unique_funk](https://repl.it/@NikitaPopov/uniquefunk)
+## Семестр 4
+1. [Таблица из JSON-файла](https://repl.it/@NikitaPopov/JSONFiles)
 
 # Всякое
 1. [Сертификат по js](/images/certJS.jpg)
