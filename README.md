@@ -24,6 +24,7 @@
 1. [Прототип UI для API nd.kodaktor.ru](/interfaces/lab1/result.md)
 1. [Мини-интернет магазин](/interfaces/lab2/result.md)
 1. [Canvas](https://kodaktor.ru/?!=canvas_660c9)
+1. [Калькулятор на php](/interfaces/lab4/result.md)
 
 # Лабы по Python
 ## Семестр 3
