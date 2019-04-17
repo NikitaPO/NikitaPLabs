@@ -36,6 +36,7 @@
 1. [Списки, срезы](Lab3Py.md)
 1. [Задание по сортировке](https://github.com/Zoom124/PythonLabSort)
 1. [Задание по unique_funk](https://repl.it/@NikitaPopov/uniquefunk)
+
 ## Семестр 4
 1. [Таблица из JSON-файла](https://repl.it/@NikitaPopov/JSONFiles)
 1. [Функция калькулятор](https://github.com/NikitaPO/130319_calculator)
