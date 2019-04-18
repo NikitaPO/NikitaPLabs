@@ -8,4 +8,6 @@
 
 [Ссылка на c9](https://ide.c9.io/gossoudarev/php-study1)
 
+Путь к файлам: /students/PopovNikita/logger/index.php
+
 [Ссылка на итоговый сайт с формой](https://php-study1-gossoudarev.c9users.io/students/PopovNikita/logger/index.php)
