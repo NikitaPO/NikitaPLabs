@@ -23,6 +23,7 @@
 # Лабы по обогащенным интерфейсам
 1. [Прототип UI для API nd.kodaktor.ru](/interfaces/lab1/result.md)
 1. [Мини-интернет магазин](/interfaces/lab2/result.md)
+1. [Интеренет магазин + Drag and Drop](https://kodaktor.ru/custom_2335a)
 1. [Canvas](https://kodaktor.ru/?!=canvas_660c9)
 1. [Калькулятор на php](/interfaces/lab3/result.md)
 1. [Модульность, webpack+moment(190219)](/interfaces/lab4/result.md)
