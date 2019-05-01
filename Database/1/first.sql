@@ -1,11 +1,3 @@
-CREATE table t(ID, Student, Age);
-
-INSERT into 't'(ID, Student, Age)
-values (2, 'Masha', 23);
-
-INSERT into 'Group'(ID, Name, Address)
-VALUES (88005553535, 'Dfadf', 'Street');
-
 SELECT *
 FROM "Group";
 
@@ -36,10 +28,6 @@ INSERT into "Hard_drives"(Model, Manufacturer, Website, "Disk_size(GB)",
                           Spindle_speed, Interface_type, Date_of_purchase, Date_of_failure, Comment)
 VALUES ("HDTB410EK3AA","Toshiba","www.toshiba.com", 500, 500, "USB 3.0", "2018-06-16 13:16:12.3442",
         "2019-06-21 13:30:15.1111", "Хороший объем, качественная сборка, невысокая цена");
-
-SELECT *
-FROM "Hard_drives";
-
 
 SELECT  Hard_drives.Serial_number, Hard_drives.Model, Hard_drives.Manufacturer
 FROM Hard_drives WHERE "Disk_size(GB)">500;
