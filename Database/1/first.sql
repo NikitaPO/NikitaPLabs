@@ -35,3 +35,9 @@ FROM Hard_drives WHERE "Disk_size(GB)">500;
 UPDATE Hard_drives SET Model = "WD1000000" WHERE Serial_number = 1;
 
 DELETE FROM Hard_drives WHERE Manufacturer = 'Toshiba';
+
+SELECT Hard_drives.Manufacturer, Hard_drives."Disk_size(GB)", Hard_drives.Spindle_speed
+FROM Hard_drives group by "Disk_size(GB)" having Spindle_speed > 1000;
+
+SELECT Hard_drives.Manufacturer, Hard_drives."Disk_size(GB)", Hard_drives.Spindle_speed
+FROM Hard_drives order by Spindle_speed desc;
