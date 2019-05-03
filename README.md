@@ -40,7 +40,7 @@
 1. [Задание по unique_funk](https://repl.it/@NikitaPopov/uniquefunk)
 
 ## Семестр 4
-1. [Таблица из JSON-файла](https://repl.it/@NikitaPopov/JSONFiles)
+1. [Таблица из JSON-файла Т1 ИСР](https://repl.it/@NikitaPopov/JSONFiles)
 1. [Функция калькулятор. Т2 ИСР](https://github.com/NikitaPO/130319_calculator)
 1. [SQL запросы по БД](/Database/1/SQLRequests.md)
 
