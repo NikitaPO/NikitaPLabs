@@ -42,7 +42,7 @@
 ## Семестр 4
 1. [Таблица из JSON-файла](https://repl.it/@NikitaPopov/JSONFiles)
 1. [Функция калькулятор](https://github.com/NikitaPO/130319_calculator)
-1. [SQL запросы по БД](/Database/SQLRequests.md)
+1. [SQL запросы по БД](/Database/1/SQLRequests.md)
 
 # Всякое
 1. [Сертификат по js](/images/certJS.jpg)
