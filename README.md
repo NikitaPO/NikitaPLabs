@@ -20,13 +20,15 @@
 1. [middleware и серверная шаблонизация (Неделя 15)](/JS15/result.md)
 1. [Работа со статическими файлами(Неделя 16)](/JS16/result.md)
 
-# Лабы по обогащенным интерфейсам
-1. [Прототип UI для API nd.kodaktor.ru](/interfaces/lab1/result.md)
-1. [Мини-интернет магазин](/interfaces/lab2/result.md)
-1. [Интеренет магазин + Drag and Drop](https://kodaktor.ru/custom_2335a)
+# Лабы по обогащенным интерфейсам веб-приложений
+1. [Прототип UI для API nd.kodaktor.ru (02-02-2018 и 07-02-2019)](/interfaces/lab1/result.md)
+1. [Мини-интернет магазин (21-02-2019)](/interfaces/lab2/result.md)
+1. [Интеренет магазин + Drag and Drop (28-02-2019)](https://kodaktor.ru/custom_2335a)
 1. [Canvas](https://kodaktor.ru/?!=canvas_660c9)
-1. [Калькулятор на php](/interfaces/lab3/result.md)
-1. [Модульность, webpack+moment(190219)](/interfaces/lab4/result.md)
+
+# Компьютерный практикум
+1. [Модульность, webpack+moment(19-02-2019)](/interfaces/lab4/result.md)
+1. [Калькулятор на php (02-04-2019)](/interfaces/lab3/result.md)
 1. [Файлы КП(09-04-2019 - 16-04-2019)](/interfaces/lab5/result.md)
 
 # Лабы по Python
