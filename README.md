@@ -24,7 +24,7 @@
 1. [Прототип UI для API nd.kodaktor.ru (02-02-2018 и 07-02-2019)](/interfaces/lab1/result.md)
 1. [Мини-интернет магазин (21-02-2019)](/interfaces/lab2/result.md)
 1. [Интеренет магазин + Drag and Drop (28-02-2019)](https://kodaktor.ru/custom_2335a)
-1. [Canvas](https://kodaktor.ru/?!=canvas_660c9)
+1. [Canvas (14-03-2019)](https://kodaktor.ru/?!=canvas_660c9)
 
 # Компьютерный практикум
 1. [Модульность, webpack+moment(19-02-2019)](/interfaces/lab4/result.md)
