@@ -5,4 +5,5 @@
 # Результат
 
 Созданный скрипт, который выводит таблицу из базы данных: [Ссылка](/comp/300519/index.php)
+
 Итоговая страница: [Ссылка](https://php-study1-gossoudarev.c9users.io/students/PopovNikita/1.1.php)
