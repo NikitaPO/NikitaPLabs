@@ -56,4 +56,5 @@
 # Всякое
 1. [Сертификат по js](/images/certJS.jpg)
 1. [Сертификат по python](/images/certPython.jpg)
+1. [Сертификат по SQL](/images/certSQL.jpg)
 1. [CodePen](https://codepen.io/nikitapo/)
