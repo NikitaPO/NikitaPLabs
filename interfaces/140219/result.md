@@ -10,3 +10,4 @@
 # Решение
 
 1. https://kodaktor.ru/?!=nodelist_f9ed3
+2. https://kodaktor.ru/?!=5_68d58
