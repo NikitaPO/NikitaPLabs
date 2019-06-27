@@ -33,6 +33,7 @@
 1. [Модульность, webpack+moment(19-02-2019)](/interfaces/lab4/result.md)
 1. [Калькулятор на php (02-04-2019)](/interfaces/lab3/result.md)
 1. [Файлы КП(09-04-2019 - 16-04-2019)](/interfaces/lab5/result.md)
+1. [Vue (23-04-19)](/comp/230419/result.md)
 1. [MySQL (30-05-2019)](/comp/300519/result.md)
 
 # Лабы по Python
