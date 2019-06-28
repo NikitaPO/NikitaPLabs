@@ -4,4 +4,4 @@
 
 # Решение
 
-Ссылка на репозиторий: [https://github.com/NikitaPO/280619_vuea](https://github.com/NikitaPO/280619_vuea)
+Ссылка на репозиторий: [https://github.com/NikitaPO/280619_vue](https://github.com/NikitaPO/280619_vue)
