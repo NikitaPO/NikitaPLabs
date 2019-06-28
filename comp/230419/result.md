@@ -1,6 +1,6 @@
 # Задание
 
-![https://kodaktor.ru/frmw_002](https://kodaktor.ru/frmw_002)
+[https://kodaktor.ru/frmw_002](https://kodaktor.ru/frmw_002)
 
 # Решение
 
