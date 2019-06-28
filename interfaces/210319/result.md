@@ -4,5 +4,5 @@
 
 # Решение
 
-[https://kodaktor.ru/?!=?=pointer_9c802](https://kodaktor.ru/?!=?=pointer_9c802)
+[https://kodaktor.ru/?!=?=pointer_9c802](https://kodaktor.ru/?!=71fce0f)
 
