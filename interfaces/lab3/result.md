@@ -6,4 +6,4 @@
 
 [fetch калькулятор](https://kodaktor.ru/?!=02042019_67540)
 
-[Код на PHP](/interfaces/lab3/index.php)
+[Код на PHP](https://github.com/NikitaPO/NikitaPLabs/blob/master/interfaces/lab3/index.php)
