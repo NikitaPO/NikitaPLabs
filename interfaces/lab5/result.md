@@ -10,6 +10,6 @@
 
 Путь к файлам: /students/PopovNikita/logger/index.php
 
-[Файл с кодом](/https://github.com/NikitaPO/NikitaPLabs/blob/master/interfaces/lab5/index.php)
+[Файл с кодом](https://github.com/NikitaPO/NikitaPLabs/blob/master/interfaces/lab5/index.php)
 
 [Ссылка на итоговый сайт с формой](https://php-study1-gossoudarev.c9users.io/students/PopovNikita/logger/index.php)
