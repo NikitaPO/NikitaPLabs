@@ -39,9 +39,10 @@
 1. [MySQL (30-05-2019)](/comp/300519/result.md)
 
 ## По требованиям
+> Вставлять везде  <h4 id="author" title="NikitaPopov"Никита Попов/h4>
 1. [Func-001](https://kodaktor.ru/?!=task_func_d653e)
-1. [Func-002]()
-1. [Func-003]()
+1. [Func-002](https://kodaktor.ru/?!=func_24881)
+1. [Func-003](https://kodaktor.ru/?!=func_6b92b)
 1. [Func-004]()
 1. [Func-005]()
 1. [Func-006]()
