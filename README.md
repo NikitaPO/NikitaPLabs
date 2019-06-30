@@ -38,6 +38,17 @@
 1. [Vue (23-04-19)](/comp/230419/result.md)
 1. [MySQL (30-05-2019)](/comp/300519/result.md)
 
+## По требованиям
+1. [Func-001](https://kodaktor.ru/?!=task_func_d653e)
+1. [Func-002]()
+1. [Func-002]()
+1. [Func-002]()
+1. [Func-002]()
+1. [Func-002]()
+1. [Func-002]()
+1. [Func-002]()
+1. [Func-002]()
+
 # Лабы по Python
 ## Семестр 3
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
