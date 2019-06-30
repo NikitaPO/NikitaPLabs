@@ -4,4 +4,4 @@
 
 # Решение
 
-[https://kodaktor.ru/?!=71fce0f_056ea](https://kodaktor.ru/?!=71fce0f_056ea)
+[https://kodaktor.ru/?!=71fce0f_c1dc7](https://kodaktor.ru/?!=71fce0f_c1dc7)
