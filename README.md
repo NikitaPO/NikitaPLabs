@@ -39,17 +39,17 @@
 1. [MySQL (30-05-2019)](/comp/300519/result.md)
 
 ## По требованиям
-> Вставлять везде  <h4 id="author" title="NikitaPopov"Никита Попов/h4>
+> Вставлять везде  <h4 id="author" title="NikitaPopov">Никита Попов</h4>
 1. [Func-001](https://kodaktor.ru/?!=task_func_d653e)
 1. [Func-002](https://kodaktor.ru/?!=func_24881)
 1. [Func-003](https://kodaktor.ru/?!=func_6b92b)
-1. [Func-004]()
-1. [Func-005]()
-1. [Func-006]()
-1. [Func-007]()
-1. [Func-008]()
-1. [Func-009]()
-1. [Func-010]()
+1. [Func-004](https://kodaktor.ru/?!=func_e7d32)
+1. [Func-005](https://kodaktor.ru/?!=func_a28e0)
+1. [Func-006](https://kodaktor.ru/?!=func_04988)
+1. [Func-007](https://kodaktor.ru/?!=func_6a8b1)
+1. [Func-008](https://kodaktor.ru/?!=func_3b007)
+1. [Func-009](https://kodaktor.ru/?!=func_53427)
+1. [Func-010](https://kodaktor.ru/func_010)
 
 # Лабы по Python
 ## Семестр 3
