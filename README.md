@@ -50,6 +50,7 @@
 1. [Func-009](https://kodaktor.ru/?!=func_53427)
 1. [Func-010](https://kodaktor.ru/func_010)
 1. [EVNT_002](https://kodaktor.ru/custom_869f5)
+1. [BABL_002](https://kodaktor.ru/?!=bind02032018_cdbfd)
 1. [CART](https://kodaktor.ru/custom_2335a)
 1. [FRMW_002](/comp/230419/result.md)
 
