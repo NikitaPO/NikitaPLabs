@@ -52,6 +52,7 @@
 1. [Func-010](https://kodaktor.ru/func_010)
 1. [EVNT_002](https://kodaktor.ru/custom_869f5)
 1. [CART](/interfaces/lab2/result.md)
+1. [FRMW_002](/comp/230419/result.md)
 
 
 
