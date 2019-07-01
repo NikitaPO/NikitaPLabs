@@ -50,6 +50,11 @@
 1. [Func-008](https://kodaktor.ru/?!=func_3b007)
 1. [Func-009](https://kodaktor.ru/?!=func_53427)
 1. [Func-010](https://kodaktor.ru/func_010)
+1. [EVNT_002](https://kodaktor.ru/custom_869f5)
+1. [CART](/interfaces/lab2/result.md)
+
+
+
 
 # Лабы по Python
 ## Семестр 3
