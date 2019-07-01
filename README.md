@@ -54,7 +54,6 @@
 1. [BABL_002](https://kodaktor.ru/bind02032018_cdbfd)
 1. [CART](https://kodaktor.ru/custom_2335a)
 1. [FRMW_002](/comp/230419/result.md)
-1. [FRMW_003](https://kodaktor.ru/frmw_41452)
 
 # Лабы по Python
 ## Семестр 3
