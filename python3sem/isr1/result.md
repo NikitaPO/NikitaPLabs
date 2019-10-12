@@ -8,7 +8,7 @@
 
 # Решение
 
-1.2.
+1.2. https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-12
 
 1.3.
 
