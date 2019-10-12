@@ -58,7 +58,7 @@
 # Лабы по Python
 ## Семестр 3
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
-1. [Сумма прогрессииб сумма сторон треугольника, калькулятор. Т1 ИСР](/python3sem/isr1/result.md)
+1. [Сумма прогрессии, сумма сторон треугольника, калькулятор. Т1 ИСР](/python3sem/isr1/result.md)
 1. [Таблицы истинности на repl](https://repl.it/@NikitaPopov/PythonLab2)
 1. [Усложненное задание с таблицами истинности](https://repl.it/@NikitaPopov/PythonLab2Hard)
 1. [Генератор таблиц по заданным параметрам](https://repl.it/@NikitaPopov/createTable-1)
