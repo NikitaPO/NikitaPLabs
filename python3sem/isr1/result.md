@@ -10,6 +10,6 @@
 
 1.2. https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-12
 
-1.3.
+1.3. https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-13
 
 1.4.
