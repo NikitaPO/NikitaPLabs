@@ -16,4 +16,4 @@
       
 2.2. https://repl.it/@NikitaPopov/PythonLab-3sem-isr-22py  
 
-2.3. https://repl.it/@NikitaPopov/PythonLab-3sem-isr-3-isr-23py
+2.3. https://repl.it/@NikitaPopov/PythonLab-3sem-isr-23py
