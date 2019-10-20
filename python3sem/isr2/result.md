@@ -11,6 +11,5 @@
 # Решение
 
 2.1. https://repl.it/@NikitaPopov/PythonLab2  
-усложненное 2.1. https://repl.it/@NikitaPopov/PythonLab2Hard
-
-2.2. https://repl.it/@NikitaPopov/createTable-1
+усложненное https://repl.it/@NikitaPopov/PythonLab2Hard
+      https://repl.it/@NikitaPopov/createTable-1
