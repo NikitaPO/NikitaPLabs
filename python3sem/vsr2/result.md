@@ -33,4 +33,6 @@
 
 https://repl.it/@NikitaPopov/PythonLab-3sem-vsr-22
 
-### 2.3. 
+### 2.3. Перепишите лямбда-функцию, генерирующую квадраты чисел из переменной типа list, через генератор списка.	 
+
+https://repl.it/@NikitaPopov/PythonLab-3sem-vsr-23
