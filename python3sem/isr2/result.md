@@ -10,12 +10,12 @@
 
 # Решение
 
-2.1. https://repl.it/@NikitaPopov/PythonLab2   
-усложненное https://repl.it/@NikitaPopov/PythonLab2Hard  
-      https://repl.it/@NikitaPopov/createTable-1  
+2.1. [https://repl.it/@NikitaPopov/PythonLab2](https://repl.it/@NikitaPopov/PythonLab2)   
+усложненное [https://repl.it/@NikitaPopov/PythonLab2Hard](https://repl.it/@NikitaPopov/PythonLab2Hard)  
+      [https://repl.it/@NikitaPopov/createTable-1](https://repl.it/@NikitaPopov/createTable-1)  
       
-2.2. https://repl.it/@NikitaPopov/PythonLab-3sem-isr-22py  
+2.2. [https://repl.it/@NikitaPopov/PythonLab-3sem-isr-22py](https://repl.it/@NikitaPopov/PythonLab-3sem-isr-22py)  
 
-2.3. https://repl.it/@NikitaPopov/PythonLab-3sem-isr-23py
+2.3. [https://repl.it/@NikitaPopov/PythonLab-3sem-isr-23py](https://repl.it/@NikitaPopov/PythonLab-3sem-isr-23py)
 
-2.4. https://repl.it/@NikitaPopov/PythonLab-3sem-isr-24
+2.4. [https://repl.it/@NikitaPopov/PythonLab-3sem-isr-24](https://repl.it/@NikitaPopov/PythonLab-3sem-isr-24)
