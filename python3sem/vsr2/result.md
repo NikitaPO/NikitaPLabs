@@ -31,8 +31,8 @@
 
 ### 2.2. Разработать программу, которая для заданного количества значений возвращала бы список из уникальных элементов, содержащихся во входном наборе значений. Используйте упаковку и распаковку элементов.  
 
-[](https://repl.it/@NikitaPopov/PythonLab-3sem-vsr-22)
+[https://repl.it/@NikitaPopov/PythonLab-3sem-vsr-22](https://repl.it/@NikitaPopov/PythonLab-3sem-vsr-22)
 
 ### 2.3. Перепишите лямбда-функцию, генерирующую квадраты чисел из переменной типа list, через генератор списка.	 
 
-[](https://repl.it/@NikitaPopov/PythonLab-3sem-vsr-23)
+[https://repl.it/@NikitaPopov/PythonLab-3sem-vsr-23](https://repl.it/@NikitaPopov/PythonLab-3sem-vsr-23)
