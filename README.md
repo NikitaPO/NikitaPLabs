@@ -79,6 +79,9 @@
 1. [SQL запросы по БД](/Database/1/SQLRequests.md)
 1. [Запрос к сайту datazen](https://github.com/NikitaPO/290519_requests/blob/master/README.md)
 
+## Семестр 5
+1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics/blob/master/index.py)
+
 # Всякое
 1. [Сертификат по js](/images/certJS.jpg)
 1. [Сертификат по python](/images/certPython.jpg)
