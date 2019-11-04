@@ -10,6 +10,6 @@
 
 2.1. [https://repl.it/@NikitaPopov/PythonLab-3sem-isr-21](https://repl.it/@NikitaPopov/PythonLab-3sem-isr-21)
 
-2.2.
+2.2. [https://repl.it/@NikitaPopov/PythonLab-3sem-isr-22](https://repl.it/@NikitaPopov/PythonLab-3sem-isr-22)
 
 2.3. (Это и есть отчет)
