@@ -8,8 +8,8 @@
 
 # Решение
 
-1.2. https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-12
+1.2. [https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-12](https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-12)
 
-1.3. https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-13
+1.3. [https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-13](https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-13)
 
-1.4. https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-14
+1.4. [https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-14](https://repl.it/@NikitaPopov/Siem-3-T1-ISR-Zadaniie-14)
