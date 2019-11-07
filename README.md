@@ -1,7 +1,7 @@
 > Выполнено Поповым Никитой, ИВТ, 2 подгруппа, 2 курс
 
-# Лабы по Web
-## Семестр 3
+# Семестр 3
+## Лабы по Web
 1. [Node JS (Неделя 1)](https://github.com/Zoom124/NikitaPLabs/blob/master/Lab1Node.md)
 1. [XML и DTD (Неделя 1)](Lab2XMLandDTD.md)
 1. [XSD (Неделя 2)](https://github.com/NikitaPO/NikitaPLabs/blob/master/JS2/Lab2XSD.md)
@@ -21,7 +21,21 @@
 1. [middleware и серверная шаблонизация (Неделя 15)](/JS15/result.md)
 1. [Работа со статическими файлами(Неделя 16)](/JS16/result.md)
 
-## Семестр 4
+## Лабы по Python  
+1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
+1. [Сумма прогрессии, сумма сторон треугольника, калькулятор. Т1 ИСР](/python3sem/isr1/result.md)
+1. [Задания инвариативной СР. Т2 ИСР](/python3sem/isr2/result.md)
+1. [Задания вариативной СР. Т2 ВСР](/python3sem/vsr2/result.md)
+1. [Задания инвариативной СР. Т3 ИСР](/python3sem/isr3/result.md)
+1. [Задания вариативной СР. Т3 ВСР](/python3sem/vsr3/result.md)
+1. [Таблицы истинности на repl](https://repl.it/@NikitaPopov/PythonLab2)
+1. [Усложненное задание с таблицами истинности](https://repl.it/@NikitaPopov/PythonLab2Hard)
+1. [Генератор таблиц по заданным параметрам](https://repl.it/@NikitaPopov/createTable-1)
+1. [Списки, срезы](Lab3Py.md)
+1. [Задание по сортировке](https://github.com/Zoom124/PythonLabSort)
+1. [Задание по unique_funk](https://repl.it/@NikitaPopov/uniquefunk)
+
+# Семестр 4
 ## Лабы по обогащенным интерфейсам веб-приложений
 1. [Прототип UI для API nd.kodaktor.ru (02-02-2018 и 07-02-2019)](/interfaces/lab1/result.md)
 1. [Интерфейсы HTML5 API (14-02-19)](/interfaces/140219/result.md)
@@ -55,22 +69,7 @@
 1. [CART](https://kodaktor.ru/custom_2335a)
 1. [FRMW_002](/comp/230419/result.md)
 
-# Лабы по Python
-## Семестр 3
-1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
-1. [Сумма прогрессии, сумма сторон треугольника, калькулятор. Т1 ИСР](/python3sem/isr1/result.md)
-1. [Задания инвариативной СР. Т2 ИСР](/python3sem/isr2/result.md)
-1. [Задания вариативной СР. Т2 ВСР](/python3sem/vsr2/result.md)
-1. [Задания инвариативной СР. Т3 ИСР](/python3sem/isr3/result.md)
-1. [Задания вариативной СР. Т3 ВСР](/python3sem/vsr3/result.md)
-1. [Таблицы истинности на repl](https://repl.it/@NikitaPopov/PythonLab2)
-1. [Усложненное задание с таблицами истинности](https://repl.it/@NikitaPopov/PythonLab2Hard)
-1. [Генератор таблиц по заданным параметрам](https://repl.it/@NikitaPopov/createTable-1)
-1. [Списки, срезы](Lab3Py.md)
-1. [Задание по сортировке](https://github.com/Zoom124/PythonLabSort)
-1. [Задание по unique_funk](https://repl.it/@NikitaPopov/uniquefunk)
-
-## Семестр 4
+## Лабораторные работы по программированию (Python)
 1. [Таблица из JSON-файла Т1 ИСР](https://repl.it/@NikitaPopov/JSONFiles)
 1. [Teстирование функции факториала с помощью unittest. Т1 ВСР](https://repl.it/@NikitaPopov/Tiema1VSR)
 1. [БД с использованием Python. Лаба(05.03, 06.03)](https://github.com/NikitaPO/060519_BDwithPY/blob/master/index.py)
@@ -81,7 +80,8 @@
 1. [SQL запросы по БД](/Database/1/SQLRequests.md)
 1. [Запрос к сайту datazen](https://github.com/NikitaPO/290519_requests/blob/master/README.md)
 
-## Семестр 5
+# Семестр 5
+## Лабораторные работы по программированию (Python)
 1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics/blob/master/index.py)
 
 # Всякое
