@@ -83,7 +83,7 @@
 # Семестр 5
 ## Лабораторные работы по ИТ в изучении иностранных языков
 [Полный список заданий](https://moodle.herzen.spb.ru/pluginfile.php/269523/mod_label/intro/2017_5791_8438_3_21381.pdf)   
-1.[Выполненное задание 3](https://kodaktor.ru/audiobutton1_dcdb9)
+1. [Выполненное задание 3](https://kodaktor.ru/audiobutton1_dcdb9)
 
 ## Лабораторные работы по программированию (Python)
 1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics/blob/master/index.py)
