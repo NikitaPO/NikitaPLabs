@@ -1,7 +1,7 @@
 > Выполнено Поповым Никитой, ИВТ, 2 подгруппа, 2 курс
 
 # Семестр 3
-## Лабы по Web
+## Лабораторные работы по Web
 1. [Node JS (Неделя 1)](https://github.com/Zoom124/NikitaPLabs/blob/master/Lab1Node.md)
 1. [XML и DTD (Неделя 1)](Lab2XMLandDTD.md)
 1. [XSD (Неделя 2)](https://github.com/NikitaPO/NikitaPLabs/blob/master/JS2/Lab2XSD.md)
@@ -21,7 +21,7 @@
 1. [middleware и серверная шаблонизация (Неделя 15)](/JS15/result.md)
 1. [Работа со статическими файлами(Неделя 16)](/JS16/result.md)
 
-## Лабы по Python  
+## Лабораторные работы по Python  
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
 1. [Сумма прогрессии, сумма сторон треугольника, калькулятор. Т1 ИСР](/python3sem/isr1/result.md)
 1. [Задания инвариативной СР. Т2 ИСР](/python3sem/isr2/result.md)
@@ -36,7 +36,7 @@
 1. [Задание по unique_funk](https://repl.it/@NikitaPopov/uniquefunk)
 
 # Семестр 4
-## Лабы по обогащенным интерфейсам веб-приложений
+## Лабораторные работы по обогащенным интерфейсам веб-приложений
 1. [Прототип UI для API nd.kodaktor.ru (02-02-2018 и 07-02-2019)](/interfaces/lab1/result.md)
 1. [Интерфейсы HTML5 API (14-02-19)](/interfaces/140219/result.md)
 1. [Мини-интернет магазин (21-02-2019)](/interfaces/lab2/result.md)
@@ -52,7 +52,7 @@
 1. [Vue (23-04-19)](/comp/230419/result.md)
 1. [MySQL (30-05-2019)](/comp/300519/result.md)
 
-## По [требованиям](https://kodaktor.ru/herzen_tasks_2019)
+### По [требованиям](https://kodaktor.ru/herzen_tasks_2019)
 1. [Func-001](https://kodaktor.ru/task_func_d653e)
 1. [Func-002](https://kodaktor.ru/func_24881)
 1. [Func-003](https://kodaktor.ru/func_6b92b)
