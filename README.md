@@ -82,7 +82,8 @@
 
 # Семестр 5
 ## Лабораторные работы по ИТ в изучении иностранных языков
-[Полный список заданий](https://moodle.herzen.spb.ru/pluginfile.php/269523/mod_label/intro/2017_5791_8438_3_21381.pdf)   
+[Полный список заданий](https://moodle.herzen.spb.ru/pluginfile.php/269523/mod_label/intro/2017_5791_8438_3_21381.pdf)
+1. [Выполненное задание 1. Создание облака ключевых слов](/ITinEnglish/lab1/result.md)
 1. [Выполненное задание 3. Говорящие кнопки](https://kodaktor.ru/darkside_96ec7)
 
 ## Лабораторные работы по программированию (Python)
