@@ -93,3 +93,13 @@ Additionally the team announced that Electron 4.x.y has reached end-of-support a
 ## Полученное облако слов
 
 ![Облако слов](/ITinEnglish/lab1/Electron.png)
+
+## Топ 5 значимых слов текста
+
+Частота | Слово
+---|---
+8	| Electron
+8	| release
+6	| team
+4	| added
+3	| upgrades
