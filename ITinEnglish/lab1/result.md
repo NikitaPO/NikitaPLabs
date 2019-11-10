@@ -92,4 +92,4 @@ Additionally the team announced that Electron 4.x.y has reached end-of-support a
 
 ## Полученное облако слов
 
-![Облако слов](/ITinEnglish/lab1/result.md)
+![Облако слов](/ITinEnglish/lab1/Electron.png)
