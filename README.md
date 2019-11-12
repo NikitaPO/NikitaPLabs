@@ -89,6 +89,7 @@
 ## Лабораторные работы по программированию (Python)
 1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics/blob/master/index.py)
 
+
 # Всякое
 1. [Сертификат по js](/images/certJS.jpg)
 1. [Сертификат по python](/images/certPython.jpg)
