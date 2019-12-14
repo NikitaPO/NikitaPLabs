@@ -86,6 +86,7 @@
 1. [Выполненное задание 1. Создание облака ключевых слов](/ITinEnglish/lab1/result.md)
 1. [Выполненное задание 2. Создание сценария изучения онлайн-курса по иностранному языку](/ITinEnglish/lab3/result.md)
 1. [Выполненное задание 3. Говорящие кнопки](https://kodaktor.ru/darkside_96ec7)
+1. [Выполненное задание 4. Разработка сценария использования мобильного приложения Sounds of Speech](/ITinEnglish/lab4/result.md)
 
 ## Лабораторные работы по программированию (Python)
 1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics/blob/master/index.py)
