@@ -89,7 +89,7 @@
 1. [Выполненное задание 4. Разработка сценария использования мобильного приложения Sounds of Speech](/ITinEnglish/lab4/result.md)
 
 ## Лабораторные работы по программированию (Python)
-1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics/blob/master/index.py)
+1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics)
 
 
 # Всякое
