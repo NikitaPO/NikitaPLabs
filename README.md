@@ -91,6 +91,13 @@
 ## Лабораторные работы по программированию (Python)
 1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics)
 
+# Семестр 6
+## Лабораторные работы по программированию (Python)
+1. [Тема 1](https://github.com/python-advance/t1-datascienceintro-NikitaPO)
+1. [Тема 2](https://github.com/python-advance/t2-generators-NikitaPO)
+1. [Тема 3](https://github.com/python-advance/t3-gui-NikitaPO)
+1. [Тема 4](https://github.com/python-advance/t4-env-NikitaPO)
+
 
 # Всякое
 1. [Сертификат по js](/images/certJS.jpg)
