@@ -21,7 +21,7 @@
 1. [middleware и серверная шаблонизация (Неделя 15)](/JS15/result.md)
 1. [Работа со статическими файлами(Неделя 16)](/JS16/result.md)
 
-## Лабораторные работы по Python  
+## Лабораторные работы по программированию (Python)
 1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
 1. [Сумма прогрессии, сумма сторон треугольника, калькулятор. Т1 ИСР](/python3sem/isr1/result.md)
 1. [Задания инвариативной СР. Т2 ИСР](/python3sem/isr2/result.md)
