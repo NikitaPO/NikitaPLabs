@@ -35,6 +35,7 @@
 1. [Списки, срезы](Lab3Py.md)
 1. [Задание по сортировке](https://github.com/Zoom124/PythonLabSort)
 1. [Задание по unique_funk](https://repl.it/@NikitaPopov/uniquefunk)
+1. [Тема 4](https://github.com/python-basic/sem3-t4-NikitaPO)
 
 # Семестр 4
 ## Лабораторные работы по обогащенным интерфейсам веб-приложений
