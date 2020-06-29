@@ -29,7 +29,7 @@
 1. [SQL запросы по БД](/Database/1/SQLRequests.md)
 1. [Запрос к сайту datazen](https://github.com/NikitaPO/290519_requests/blob/master/README.md)
 
-# Семестр 5
+## Семестр 5
 1. [Тема 1](https://github.com/python-advance/t1-datascienceintro-NikitaPO)
 1. [Тема 2](https://github.com/python-advance/t2-generators-NikitaPO)
 1. [Тема 3 (вариант 1)](https://github.com/python-advance/sem5-oop-NikitaPO/tree/master)
@@ -37,7 +37,7 @@
 1. [Тема 4](https://github.com/python-advance/t4-env-NikitaPO)
 1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics)
 
-# Семестр 6
+## Семестр 6
 1. [Тема 1](https://github.com/python-advance/sem5-t1-NikitaPO)
 1. [Тема 2](https://github.com/python-advance/sem5-t2-NikitaPO)
 1. [Тема 3](https://github.com/python-advance/python-advance-sem5-t3-NikitaPO)
