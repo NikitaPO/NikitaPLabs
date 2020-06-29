@@ -28,6 +28,7 @@
 1. [Задания вариативной СР. Т2 ВСР](/python3sem/vsr2/result.md)
 1. [Задания инвариативной СР. Т3 ИСР](/python3sem/isr3/result.md)
 1. [Задания вариативной СР. Т3 ВСР](/python3sem/vsr3/result.md)
+1. [Тема 3](https://github.com/python-basic/sem3-t3-NikitaPO)
 1. [Таблицы истинности на repl](https://repl.it/@NikitaPopov/PythonLab2)
 1. [Усложненное задание с таблицами истинности](https://repl.it/@NikitaPopov/PythonLab2Hard)
 1. [Генератор таблиц по заданным параметрам](https://repl.it/@NikitaPopov/createTable-1)
