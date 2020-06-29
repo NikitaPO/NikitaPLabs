@@ -1,5 +1,55 @@
 > Выполнено Поповым Никитой, ИВТ, курс 2017 года
 
+# Лабораторные работы по программированию (Python)
+
+## Семестр 3
+1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
+1. [Сумма прогрессии, сумма сторон треугольника, калькулятор. Т1 ИСР](/python3sem/isr1/result.md)
+1. [Задания инвариативной СР. Т2 ИСР](/python3sem/isr2/result.md)
+1. [Задания вариативной СР. Т2 ВСР](/python3sem/vsr2/result.md)
+1. [Задания инвариативной СР. Т3 ИСР](/python3sem/isr3/result.md)
+1. [Задания вариативной СР. Т3 ВСР](/python3sem/vsr3/result.md)
+1. [Тема 3](https://github.com/python-basic/sem3-t3-NikitaPO)
+1. [Таблицы истинности на repl](https://repl.it/@NikitaPopov/PythonLab2)
+1. [Усложненное задание с таблицами истинности](https://repl.it/@NikitaPopov/PythonLab2Hard)
+1. [Генератор таблиц по заданным параметрам](https://repl.it/@NikitaPopov/createTable-1)
+1. [Списки, срезы](Lab3Py.md)
+1. [Задание по сортировке](https://github.com/Zoom124/PythonLabSort)
+1. [Задание по unique_funk](https://repl.it/@NikitaPopov/uniquefunk)
+1. [Тема 4](https://github.com/python-basic/sem3-t4-NikitaPO)
+
+## Семестр 4
+1. [Таблица из JSON-файла Т1 ИСР](https://repl.it/@NikitaPopov/JSONFiles)
+1. [Teстирование функции факториала с помощью unittest. Т1 ВСР](https://repl.it/@NikitaPopov/Tiema1VSR)
+1. [БД с использованием Python. Лаба(05.03, 06.03)](https://github.com/NikitaPO/060519_BDwithPY/blob/master/index.py)
+1. [Функция калькулятор. Т2 ИСР](https://github.com/NikitaPO/130319_calculator)
+1. [Функция декоратор, показывающая время выполнения функции. Т2 ВСР](https://repl.it/@NikitaPopov/Tiema2VSR)
+1. [Приложение обработчик базы данных отзывов посетителей гостиницы. Т3 ИСР](https://github.com/NikitaPO/050519_BDGuestsBook)
+1. [Прототип приложения "регистрация на конференицию" .Т3 ВСР](https://github.com/NikitaPO/060519_confRegistrBD/blob/master/index.py)
+1. [SQL запросы по БД](/Database/1/SQLRequests.md)
+1. [Запрос к сайту datazen](https://github.com/NikitaPO/290519_requests/blob/master/README.md)
+
+# Семестр 5
+1. [Тема 1](https://github.com/python-advance/t1-datascienceintro-NikitaPO)
+1. [Тема 2](https://github.com/python-advance/t2-generators-NikitaPO)
+1. [Тема 3 (вариант 1)](https://github.com/python-advance/sem5-oop-NikitaPO/tree/master)
+1. [Тема 3 (вариант 2)](https://github.com/python-advance/t3-gui-NikitaPO)
+1. [Тема 4](https://github.com/python-advance/t4-env-NikitaPO)
+1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics)
+
+# Семестр 6
+1. [Тема 1](https://github.com/python-advance/sem5-t1-NikitaPO)
+1. [Тема 2](https://github.com/python-advance/sem5-t2-NikitaPO)
+1. [Тема 3](https://github.com/python-advance/python-advance-sem5-t3-NikitaPO)
+1. [Тема 4](https://github.com/python-advance/sem5-t4-NikitaPO)
+1. [Выполненное дополнительное экзаменационное задание](https://github.com/NikitaPO/NikitaPLabs/blob/master/python_sem_6/result.md)
+
+# Всякое
+1. [Сертификат по js](/images/certJS.jpg)
+1. [Сертификат по python](/images/certPython.jpg)
+1. [Сертификат по SQL](/images/certSQL.jpg)
+1. [CodePen](https://codepen.io/nikitapo/)
+
 # Семестр 3
 ## Лабораторные работы по Web
 1. [Node JS (Неделя 1)](https://github.com/Zoom124/NikitaPLabs/blob/master/Lab1Node.md)
@@ -20,22 +70,6 @@
 1. [Веб-сервер на модуле http (Неделя 14)](/JS14/result.md)
 1. [middleware и серверная шаблонизация (Неделя 15)](/JS15/result.md)
 1. [Работа со статическими файлами(Неделя 16)](/JS16/result.md)
-
-## Лабораторные работы по программированию (Python)
-1. [Markdowns](https://github.com/Zoom124/NikitaPLabs/blob/master/Markdown.md)
-1. [Сумма прогрессии, сумма сторон треугольника, калькулятор. Т1 ИСР](/python3sem/isr1/result.md)
-1. [Задания инвариативной СР. Т2 ИСР](/python3sem/isr2/result.md)
-1. [Задания вариативной СР. Т2 ВСР](/python3sem/vsr2/result.md)
-1. [Задания инвариативной СР. Т3 ИСР](/python3sem/isr3/result.md)
-1. [Задания вариативной СР. Т3 ВСР](/python3sem/vsr3/result.md)
-1. [Тема 3](https://github.com/python-basic/sem3-t3-NikitaPO)
-1. [Таблицы истинности на repl](https://repl.it/@NikitaPopov/PythonLab2)
-1. [Усложненное задание с таблицами истинности](https://repl.it/@NikitaPopov/PythonLab2Hard)
-1. [Генератор таблиц по заданным параметрам](https://repl.it/@NikitaPopov/createTable-1)
-1. [Списки, срезы](Lab3Py.md)
-1. [Задание по сортировке](https://github.com/Zoom124/PythonLabSort)
-1. [Задание по unique_funk](https://repl.it/@NikitaPopov/uniquefunk)
-1. [Тема 4](https://github.com/python-basic/sem3-t4-NikitaPO)
 
 # Семестр 4
 ## Лабораторные работы по обогащенным интерфейсам веб-приложений
@@ -71,17 +105,6 @@
 1. [CART](https://kodaktor.ru/custom_2335a)
 1. [FRMW_002](/comp/230419/result.md)
 
-## Лабораторные работы по программированию (Python)
-1. [Таблица из JSON-файла Т1 ИСР](https://repl.it/@NikitaPopov/JSONFiles)
-1. [Teстирование функции факториала с помощью unittest. Т1 ВСР](https://repl.it/@NikitaPopov/Tiema1VSR)
-1. [БД с использованием Python. Лаба(05.03, 06.03)](https://github.com/NikitaPO/060519_BDwithPY/blob/master/index.py)
-1. [Функция калькулятор. Т2 ИСР](https://github.com/NikitaPO/130319_calculator)
-1. [Функция декоратор, показывающая время выполнения функции. Т2 ВСР](https://repl.it/@NikitaPopov/Tiema2VSR)
-1. [Приложение обработчик базы данных отзывов посетителей гостиницы. Т3 ИСР](https://github.com/NikitaPO/050519_BDGuestsBook)
-1. [Прототип приложения "регистрация на конференицию" .Т3 ВСР](https://github.com/NikitaPO/060519_confRegistrBD/blob/master/index.py)
-1. [SQL запросы по БД](/Database/1/SQLRequests.md)
-1. [Запрос к сайту datazen](https://github.com/NikitaPO/290519_requests/blob/master/README.md)
-
 # Семестр 5
 ## Лабораторные работы по ИТ в изучении иностранных языков
 [Полный список заданий](https://moodle.herzen.spb.ru/pluginfile.php/269523/mod_label/intro/2017_5791_8438_3_21381.pdf)
@@ -90,25 +113,3 @@
 1. [Выполненное задание 3. Говорящие кнопки](https://kodaktor.ru/darkside_aecf4)
 1. [Выполненное задание 4. Разработка сценария использования мобильного приложения Sounds of Speech](/ITinEnglish/lab4/result.md)
 
-## Лабораторные работы по программированию (Python)
-1. [Тема 1](https://github.com/python-advance/t1-datascienceintro-NikitaPO)
-1. [Тема 2](https://github.com/python-advance/t2-generators-NikitaPO)
-1. [Тема 3 (вариант 1)](https://github.com/python-advance/sem5-oop-NikitaPO/tree/master)
-1. [Тема 3 (вариант 2)](https://github.com/python-advance/t3-gui-NikitaPO)
-1. [Тема 4](https://github.com/python-advance/t4-env-NikitaPO)
-1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics)
-
-# Семестр 6
-## Лабораторные работы по программированию (Python)
-1. [Тема 1](https://github.com/python-advance/sem5-t1-NikitaPO)
-1. [Тема 2](https://github.com/python-advance/sem5-t2-NikitaPO)
-1. [Тема 3](https://github.com/python-advance/python-advance-sem5-t3-NikitaPO)
-1. [Тема 4](https://github.com/python-advance/sem5-t4-NikitaPO)
-1. [Выполненное дополнительное экзаменационное задание](https://github.com/NikitaPO/NikitaPLabs/blob/master/python_sem_6/result.md)
-
-
-# Всякое
-1. [Сертификат по js](/images/certJS.jpg)
-1. [Сертификат по python](/images/certPython.jpg)
-1. [Сертификат по SQL](/images/certSQL.jpg)
-1. [CodePen](https://codepen.io/nikitapo/)
