@@ -92,7 +92,7 @@
 1. [Тема 1](https://github.com/python-advance/t1-datascienceintro-NikitaPO)
 1. [Тема 2](https://github.com/python-advance/t2-generators-NikitaPO)
 1. [Тема 3 (вариант 1)](https://github.com/python-advance/sem5-oop-NikitaPO/tree/master)
-1. [Тема 3 (вариант 2))](https://github.com/python-advance/t3-gui-NikitaPO)
+1. [Тема 3 (вариант 2)](https://github.com/python-advance/t3-gui-NikitaPO)
 1. [Тема 4](https://github.com/python-advance/t4-env-NikitaPO)
 1. [Построение графиков на Python. Лабораторная 18](https://github.com/NikitaPO/py_sem5_theme4_graphics)
 
