@@ -104,6 +104,7 @@
 1. [Тема 2](https://github.com/python-advance/sem5-t2-NikitaPO)
 1. [Тема 3](https://github.com/python-advance/python-advance-sem5-t3-NikitaPO)
 1. [Тема 4](https://github.com/python-advance/sem5-t4-NikitaPO)
+1. [Выполненное дополнительное экзаменационное задание](https://github.com/NikitaPO/NikitaPLabs/blob/master/python_sem_6/result.md)
 
 
 # Всякое
