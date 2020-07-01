@@ -26,7 +26,7 @@
 1. [Приложение обработчик базы данных отзывов посетителей гостиницы. Т3 ИСР](https://github.com/NikitaPO/050519_BDGuestsBook)
 1. [Прототип приложения "регистрация на конференицию" .Т3 ВСР](https://github.com/NikitaPO/060519_confRegistrBD/blob/master/index.py)
 1. [SQL запросы по БД](/Database/1/SQLRequests.md)
-1. [Запрос к сайту datazen](https://github.com/NikitaPO/290519_requests/blob/master/README.md)
+1. [Запрос к сайту datazen](https://github.com/NikitaPO/290519_requests)
 
 ## Семестр 5
 1. [Тема 1](https://github.com/python-advance/t1-datascienceintro-NikitaPO)
