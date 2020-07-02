@@ -41,3 +41,25 @@
 [Лабораторная 35](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab35/)  
 [Лабораторная 36](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab36/)  
 [Лабораторная 37](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab37/)
+
+## Сертификаты
+
+Сертификат программирование в AutoCAD
+
+![Сертификат программирование в AutoCAD](./certs/img1.jpg)
+
+Сертификат проектирование в AutoCAD
+
+![Сертификат проектирование в AutoCAD](./certs/img2.jpg)
+
+Сертификат алгоритмические основы компьютерной графики
+
+![Сертификат алгоритмические основы компьютерной графики](./certs/img3.jpg)
+
+Сертификат программирование графически процессов
+
+![Сертификат программирование графически процессов](./certs/img4.jpg)
+
+Сертификат создание графических моделей OpenGL
+
+![Сертификат создание графических моделей OpenGL](./certs/img5.jpg)
