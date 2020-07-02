@@ -39,8 +39,10 @@
 [Лабораторная 33](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab33/)  
 [Лабораторная 34](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab34/)  
 [Лабораторная 35](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab35/)  
-[Лабораторная 36](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab36/)  
-[Лабораторная 37](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab37/)
+[Лабораторная 36](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab36/)   
+[Лабораторная 37](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab37/)  
+[Лабораторная 39](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab39/)  
+[Лабораторная 46](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab46/)  
 
 ## Сертификаты
 
