@@ -2,7 +2,9 @@
 
 > Выполнил Попов Никита. ИВТ. 3 курс.
 
-## OpenGL:
+## 6 семестр
+
+### OpenGL:
 
 [Лабораторная 1](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab1)  
 [Лабораторная 2](https://github.com/NikitaPO/NikitaPLabs/tree/master/computer_graphics/openGL/PopovNLab2/)  
