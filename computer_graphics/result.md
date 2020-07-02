@@ -1,4 +1,30 @@
 # Портфолио по компьютерной графике
 
-OpenGL:  
+OpenGL:
+
 1. [Лабораторная 1](./openGL/PopovNLab1/)
+1. [Лабораторная 2](./openGL/PopovNLab2/)
+1. [Лабораторная 3](./openGL/PopovNLab3/)
+1. [Лабораторная 4](./openGL/PopovNLab4/)
+1. [Лабораторная 5](./openGL/PopovNLab5/)
+1. [Лабораторная 6](./openGL/PopovNLab6/)
+1. [Лабораторная 7](./openGL/PopovNLab7/)
+1. [Лабораторная 8](./openGL/PopovNLab8/)
+1. [Лабораторная 9](./openGL/PopovNLab9/)
+1. [Лабораторная 10](./openGL/PopovNLab10/)
+1. [Лабораторная 11](./openGL/PopovNLab11/)
+1. [Лабораторная 12](./openGL/PopovNLab12/)
+1. [Лабораторная 13](./openGL/PopovNLab13/)
+1. [Лабораторная 14](./openGL/PopovNLab14/)
+1. [Лабораторная 15](./openGL/PopovNLab15/)
+1. [Лабораторная 16](./openGL/PopovNLab16/)
+1. [Лабораторная 17](./openGL/PopovNLab17/)
+1. [Лабораторная 18](./openGL/PopovNLab18/)
+1. [Лабораторная 19](./openGL/PopovNLab19/)
+1. [Лабораторная 20](./openGL/PopovNLab20/)
+1. [Лабораторная 21](./openGL/PopovNLab21/)
+1. [Лабораторная 22](./openGL/PopovNLab22/)
+1. [Лабораторная 23](./openGL/PopovNLab23/)
+1. [Лабораторная 24](./openGL/PopovNLab24/)
+1. [Лабораторная 25](./openGL/PopovNLab25/)
+1. [Лабораторная 26](./openGL/PopovNLab26/)
